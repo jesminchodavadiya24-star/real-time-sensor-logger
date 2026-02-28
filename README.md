@@ -89,4 +89,15 @@ This confirms zero memory leaks and safe memory handling.
 
 ---
 
+## Build
+
+make
+
+## Run
+
+./sensor_logger
+
+## Run with Valgrind
+
+make valgrind
 
